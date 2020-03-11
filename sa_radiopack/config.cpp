@@ -40,9 +40,9 @@ class CfgVehicles
 		displayName="SAEF Radio Pack (Woodland)";
 		hiddenSelectionsTextures[]=
 		{
-			"\SAEF_Radiopack\data\B_Radiobag_01_Woodland.paa"
+			"\sa_radiopack\data\B_Radiobag_01_Woodland.paa"
 		};
-		picture = "\SAEF_Radiopack\data\ui\B_Radiobag_01_UI_Woodland.paa";
+		picture = "\sa_radiopack\data\ui\B_Radiobag_01_UI_Woodland.paa";
 		tf_dialogUpdate="call TFAR_fnc_updateLRDialogToChannel;";
 		tf_hasLRradio=1;
 		tf_encryptionCode="tf_west_radio_code";
@@ -57,9 +57,9 @@ class CfgVehicles
 		displayName="SAEF Radio Pack (Autumn)";
 		hiddenSelectionsTextures[]=
 		{
-			"\SAEF_Radiopack\data\B_Radiobag_01_Autumn.paa"
+			"\sa_radiopack\data\B_Radiobag_01_Autumn.paa"
 		};
-		picture = "\SAEF_Radiopack\data\ui\B_Radiobag_01_UI_Autumn.paa";
+		picture = "\sa_radiopack\data\ui\B_Radiobag_01_UI_Autumn.paa";
 		tf_dialogUpdate="call TFAR_fnc_updateLRDialogToChannel;";
 		tf_hasLRradio=1;
 		tf_encryptionCode="tf_west_radio_code";
@@ -74,9 +74,9 @@ class CfgVehicles
 		displayName="SAEF Radio Pack (Desert)";
 		hiddenSelectionsTextures[]=
 		{
-			"\SAEF_Radiopack\data\B_Radiobag_01_Desert.paa"
+			"\sa_radiopack\data\B_Radiobag_01_Desert.paa"
 		};
-		picture = "\SAEF_Radiopack\data\ui\B_Radiobag_01_UI_Desert.paa";
+		picture = "\sa_radiopack\data\ui\B_Radiobag_01_UI_Desert.paa";
 		tf_dialogUpdate="call TFAR_fnc_updateLRDialogToChannel;";
 		tf_hasLRradio=1;
 		tf_encryptionCode="tf_west_radio_code";
@@ -91,9 +91,9 @@ class CfgVehicles
 		displayName="SAEF Radio Pack (Multi Cam)";
 		hiddenSelectionsTextures[]=
 		{
-			"\SAEF_Radiopack\data\B_Radiobag_01_MultiCam.paa"
+			"\sa_radiopack\data\B_Radiobag_01_MultiCam.paa"
 		};
-		picture = "\SAEF_Radiopack\data\ui\B_Radiobag_01_UI_MultiCam.paa";
+		picture = "\sa_radiopack\data\ui\B_Radiobag_01_UI_MultiCam.paa";
 		tf_dialogUpdate="call TFAR_fnc_updateLRDialogToChannel;";
 		tf_hasLRradio=1;
 		tf_encryptionCode="tf_west_radio_code";
@@ -108,9 +108,9 @@ class CfgVehicles
 		displayName="SAEF Radio Pack (Olive)";
 		hiddenSelectionsTextures[]=
 		{
-			"\SAEF_Radiopack\data\B_Radiobag_01_Olive.paa"
+			"\sa_radiopack\data\B_Radiobag_01_Olive.paa"
 		};
-		picture = "\SAEF_Radiopack\data\ui\B_Radiobag_01_UI_Olive.paa";
+		picture = "\sa_radiopack\data\ui\B_Radiobag_01_UI_Olive.paa";
 		tf_dialogUpdate="call TFAR_fnc_updateLRDialogToChannel;";
 		tf_hasLRradio=1;
 		tf_encryptionCode="tf_west_radio_code";
@@ -125,9 +125,9 @@ class CfgVehicles
 		displayName="SAEF Radio Pack (Snow)";
 		hiddenSelectionsTextures[]=
 		{
-			"\SAEF_Radiopack\data\B_Radiobag_01_Snow.paa"
+			"\sa_radiopack\data\B_Radiobag_01_Snow.paa"
 		};
-		picture = "\SAEF_Radiopack\data\ui\B_Radiobag_01_UI_Snow.paa";
+		picture = "\sa_radiopack\data\ui\B_Radiobag_01_UI_Snow.paa";
 		tf_dialogUpdate="call TFAR_fnc_updateLRDialogToChannel;";
 		tf_hasLRradio=1;
 		tf_encryptionCode="tf_west_radio_code";
@@ -142,9 +142,9 @@ class CfgVehicles
 		displayName="SAEF Radio Pack (Splinter Fleck)";
 		hiddenSelectionsTextures[]=
 		{
-			"\SAEF_Radiopack\data\B_Radiobag_01_SplinterFleck.paa"
+			"\sa_radiopack\data\B_Radiobag_01_SplinterFleck.paa"
 		};
-		picture = "\SAEF_Radiopack\data\ui\B_Radiobag_01_UI_SplinterFleck.paa";
+		picture = "\sa_radiopack\data\ui\B_Radiobag_01_UI_SplinterFleck.paa";
 		tf_dialogUpdate="call TFAR_fnc_updateLRDialogToChannel;";
 		tf_hasLRradio=1;
 		tf_encryptionCode="tf_west_radio_code";
@@ -159,9 +159,9 @@ class CfgVehicles
 		displayName="SAEF Radio Pack (Tiger)";
 		hiddenSelectionsTextures[]=
 		{
-			"\SAEF_Radiopack\data\B_Radiobag_01_Tiger.paa"
+			"\sa_radiopack\data\B_Radiobag_01_Tiger.paa"
 		};
-		picture = "\SAEF_Radiopack\data\ui\B_Radiobag_01_UI_Tiger.paa";
+		picture = "\sa_radiopack\data\ui\B_Radiobag_01_UI_Tiger.paa";
 		tf_dialogUpdate="call TFAR_fnc_updateLRDialogToChannel;";
 		tf_hasLRradio=1;
 		tf_encryptionCode="tf_west_radio_code";
@@ -176,9 +176,9 @@ class CfgVehicles
 		displayName="SAEF Radio Pack (Unmarked)";
 		hiddenSelectionsTextures[]=
 		{
-			"\SAEF_Radiopack\data\B_Radiobag_01_Unmarked.paa"
+			"\sa_radiopack\data\B_Radiobag_01_Unmarked.paa"
 		};
-		picture = "\SAEF_Radiopack\data\ui\B_Radiobag_01_UI_Unmarked.paa";
+		picture = "\sa_radiopack\data\ui\B_Radiobag_01_UI_Unmarked.paa";
 		tf_dialogUpdate="call TFAR_fnc_updateLRDialogToChannel;";
 		tf_hasLRradio=1;
 		tf_encryptionCode="tf_west_radio_code";
@@ -193,9 +193,9 @@ class CfgVehicles
 		displayName="SAEF Radio Pack (SANDF)";
 		hiddenSelectionsTextures[]=
 		{
-			"\SAEF_Radiopack\data\B_Radiobag_01_SANDF.paa"
+			"\sa_radiopack\data\B_Radiobag_01_SANDF.paa"
 		};
-		picture = "\SAEF_Radiopack\data\ui\B_Radiobag_01_UI_SANDF.paa";
+		picture = "\sa_radiopack\data\ui\B_Radiobag_01_UI_SANDF.paa";
 		tf_dialogUpdate="call TFAR_fnc_updateLRDialogToChannel;";
 		tf_hasLRradio=1;
 		tf_encryptionCode="tf_west_radio_code";
@@ -210,9 +210,9 @@ class CfgVehicles
 		displayName="SAEF Radio Pack (Khaki)";
 		hiddenSelectionsTextures[]=
 		{
-			"\SAEF_Radiopack\data\B_Radiobag_01_Khaki.paa"
+			"\sa_radiopack\data\B_Radiobag_01_Khaki.paa"
 		};
-		picture = "\SAEF_Radiopack\data\ui\B_Radiobag_01_UI_Khaki.paa";
+		picture = "\sa_radiopack\data\ui\B_Radiobag_01_UI_Khaki.paa";
 		tf_dialogUpdate="call TFAR_fnc_updateLRDialogToChannel;";
 		tf_hasLRradio=1;
 		tf_encryptionCode="tf_west_radio_code";
@@ -227,9 +227,9 @@ class CfgVehicles
 		displayName="SAEF Radio Pack (Khaki Green)";
 		hiddenSelectionsTextures[]=
 		{
-			"\SAEF_Radiopack\data\B_RadioBag_01_KhakiGreen.paa"
+			"\sa_radiopack\data\B_RadioBag_01_KhakiGreen.paa"
 		};
-		picture = "\SAEF_Radiopack\data\ui\B_Radiobag_01_UI_KhakiGreen.paa";
+		picture = "\sa_radiopack\data\ui\B_Radiobag_01_UI_KhakiGreen.paa";
 		tf_dialogUpdate="call TFAR_fnc_updateLRDialogToChannel;";
 		tf_hasLRradio=1;
 		tf_encryptionCode="tf_west_radio_code";
