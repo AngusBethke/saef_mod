@@ -41,7 +41,8 @@ class CfgPatches
 			"SA_PlateCarrier_Fleck2",
 			"SA_PlateCarrier_FleckU1",
 			"SA_PlateCarrier_FleckU2",
-			"SA_SANDF_Vest"
+			"SA_SANDF_Vest",
+			"SA_SANDF_Vest_brown"
 			/*"Rus_Harness",
 			"Rus_Harness_Black",
 			"Rus_Harness_Wood",
@@ -383,6 +384,36 @@ class CfgWeapons
 			};
 		};
 	};
+	class SA_SANDF_Vest_brown:V_Press_F
+	{
+		author="Mascot";
+		scope=2;
+		weaponPoolAvailable = 1;
+		displayName="SA SANDF Vest (Brown)";
+		model = "\A3\Characters_F_EPC\Civil\equip_press_vest_01.p3d";
+		hiddenSelectionsTextures[]=
+		{
+			"\sa_vests\data\SA_SANDF_Vest_brown.paa"
+		};
+		picture = "\sa_vests\data\ui\saef_vest_SANDF_brown_ca.paa";
+		class ItemInfo: VestItem
+		{
+			uniformModel="\A3\Characters_F_EPC\Civil\equip_press_vest_01.p3d";
+			containerClass="Supply100";
+			mass=50;
+			armor="5*0.5";
+			passThrough=0.69999999;
+			hiddenSelections[]=
+			{
+				"camo"
+			};
+           hiddenSelectionsTextures[]=
+			{
+			"\sa_vests\data\SA_SANDF_Vest_brown.paa"
+			};
+		};
+	};
+	
 	/*class Rus_Harness: Vest_NoCamo_Base
 	{
 		scope=2;
