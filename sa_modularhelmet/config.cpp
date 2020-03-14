@@ -75,6 +75,7 @@ class CfgWeapons
 		author="Mascot";
 		scope=2;
 		displayName="SA Modular Headset (Autumn)";
+		picture = "\sa_modularhelmet\data\ui\H_HelmetHBK_SA_Autumn_headset_ui.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\sa_modularhelmet\data\H_HelmetHBK_SA_Autumn.paa"
@@ -85,6 +86,7 @@ class CfgWeapons
 		author="Mascot";
 		scope=2;
 		displayName="SA Modular Ear protection (Autumn)";
+		picture = "\sa_modularhelmet\data\ui\H_HelmetHBK_SA_Autumn_headset_ui.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\sa_modularhelmet\data\H_HelmetHBK_SA_Autumn.paa"
@@ -95,6 +97,7 @@ class CfgWeapons
 		author="Mascot";
 		scope=2;
 		displayName="SA Modular Chops (Autumn)";
+		picture = "\sa_modularhelmet\data\ui\H_HelmetHBK_SA_Autumn_headset_ui.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\sa_modularhelmet\data\H_HelmetHBK_SA_Autumn.paa"
@@ -105,6 +108,7 @@ class CfgWeapons
 		author="Mascot";
 		scope=2;
 		displayName="SA Modular (Autumn)";
+		picture = "\sa_modularhelmet\data\ui\H_HelmetHBK_SA_Autumn_headset_ui.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\sa_modularhelmet\data\H_HelmetHBK_SA_Autumn.paa"
@@ -115,6 +119,7 @@ class CfgWeapons
 		author="Mascot";
 		scope=2;
 		displayName="SA Modular Headset (Desert)";
+		picture = "\sa_modularhelmet\data\ui\H_HelmetHBK_SA_Desert_headset_ui.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\sa_modularhelmet\data\H_HelmetHBK_SA_Desert.paa"
@@ -125,6 +130,7 @@ class CfgWeapons
 		author="Mascot";
 		scope=2;
 		displayName="SA Modular Ear protection (Desert)";
+		picture = "\sa_modularhelmet\data\ui\H_HelmetHBK_SA_Desert_headset_ui.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\sa_modularhelmet\data\H_HelmetHBK_SA_Desert.paa"
@@ -135,6 +141,7 @@ class CfgWeapons
 		author="Mascot";
 		scope=2;
 		displayName="SA Modular Chops (Desert)";
+		picture = "\sa_modularhelmet\data\ui\H_HelmetHBK_SA_Desert_headset_ui.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\sa_modularhelmet\data\H_HelmetHBK_SA_Desert.paa"
@@ -145,6 +152,7 @@ class CfgWeapons
 		author="Mascot";
 		scope=2;
 		displayName="SA Modular (Desert)";
+		picture = "\sa_modularhelmet\data\ui\H_HelmetHBK_SA_Desert_headset_ui.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\sa_modularhelmet\data\H_HelmetHBK_SA_Desert.paa"
@@ -155,6 +163,7 @@ class CfgWeapons
 		author="Mascot";
 		scope=2;
 		displayName="SA Modular Headset (Khaki)";
+		picture = "\sa_modularhelmet\data\ui\H_HelmetHBK_SA_Khaki_headset_ui.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\sa_modularhelmet\data\H_HelmetHBK_SA_Khaki.paa"
@@ -165,6 +174,7 @@ class CfgWeapons
 		author="Mascot";
 		scope=2;
 		displayName="SA Modular Ear protection (Khaki)";
+		picture = "\sa_modularhelmet\data\ui\H_HelmetHBK_SA_Khaki_headset_ui.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\sa_modularhelmet\data\H_HelmetHBK_SA_Khaki.paa"
@@ -175,6 +185,7 @@ class CfgWeapons
 		author="Mascot";
 		scope=2;
 		displayName="SA Modular Chops (Khaki)";
+		picture = "\sa_modularhelmet\data\ui\H_HelmetHBK_SA_Khaki_headset_ui.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\sa_modularhelmet\data\H_HelmetHBK_SA_Khaki.paa"
@@ -185,6 +196,7 @@ class CfgWeapons
 		author="Mascot";
 		scope=2;
 		displayName="SA Modular (Khaki)";
+		picture = "\sa_modularhelmet\data\ui\H_HelmetHBK_SA_Khaki_headset_ui.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\sa_modularhelmet\data\H_HelmetHBK_SA_Khaki.paa"
@@ -195,6 +207,7 @@ class CfgWeapons
 		author="Mascot";
 		scope=2;
 		displayName="SA Modular Headset (Khaki Green)";
+		picture = "\sa_modularhelmet\data\ui\H_HelmetHBK_SA_KhakiGreen_headset_ui.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\sa_modularhelmet\data\H_HelmetHBK_SA_KhakiGreen.paa"
@@ -205,6 +218,7 @@ class CfgWeapons
 		author="Mascot";
 		scope=2;
 		displayName="SA Modular Ear protection (Khaki Green)";
+		picture = "\sa_modularhelmet\data\ui\H_HelmetHBK_SA_KhakiGreen_headset_ui.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\sa_modularhelmet\data\H_HelmetHBK_SA_KhakiGreen.paa"
@@ -215,6 +229,7 @@ class CfgWeapons
 		author="Mascot";
 		scope=2;
 		displayName="SA Modular Chops (Khaki Green)";
+		picture = "\sa_modularhelmet\data\ui\H_HelmetHBK_SA_KhakiGreen_headset_ui.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\sa_modularhelmet\data\H_HelmetHBK_SA_KhakiGreen.paa"
@@ -225,6 +240,7 @@ class CfgWeapons
 		author="Mascot";
 		scope=2;
 		displayName="SA Modular (Khaki Green)";
+		picture = "\sa_modularhelmet\data\ui\H_HelmetHBK_SA_KhakiGreen_headset_ui.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\sa_modularhelmet\data\H_HelmetHBK_SA_KhakiGreen.paa"
@@ -235,6 +251,7 @@ class CfgWeapons
 		author="Mascot";
 		scope=2;
 		displayName="SA Modular Headset (MultiCam)";
+		picture = "\sa_modularhelmet\data\ui\H_HelmetHBK_SA_Multicam_headset_ui.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\sa_modularhelmet\data\H_HelmetHBK_SA_Multicam.paa"
@@ -245,6 +262,7 @@ class CfgWeapons
 		author="Mascot";
 		scope=2;
 		displayName="SA Modular Ear protection (MultiCam)";
+		picture = "\sa_modularhelmet\data\ui\H_HelmetHBK_SA_Multicam_headset_ui.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\sa_modularhelmet\data\H_HelmetHBK_SA_Multicam.paa"
@@ -255,6 +273,7 @@ class CfgWeapons
 		author="Mascot";
 		scope=2;
 		displayName="SA Modular Chops (MultiCam)";
+		picture = "\sa_modularhelmet\data\ui\H_HelmetHBK_SA_Multicam_headset_ui.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\sa_modularhelmet\data\H_HelmetHBK_SA_Multicam.paa"
@@ -265,6 +284,7 @@ class CfgWeapons
 		author="Mascot";
 		scope=2;
 		displayName="SA Modular (MultiCam)";
+		picture = "\sa_modularhelmet\data\ui\H_HelmetHBK_SA_Multicam_headset_ui.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\sa_modularhelmet\data\H_HelmetHBK_SA_Multicam.paa"
@@ -275,6 +295,7 @@ class CfgWeapons
 		author="Mascot";
 		scope=2;
 		displayName="SA Modular Headset (Olive)";
+		picture = "\sa_modularhelmet\data\ui\H_HelmetHBK_SA_Olive_headset_ui.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\sa_modularhelmet\data\H_HelmetHBK_SA_Olive.paa"
@@ -285,6 +306,7 @@ class CfgWeapons
 		author="Mascot";
 		scope=2;
 		displayName="SA Modular Ear protection (Olive)";
+		picture = "\sa_modularhelmet\data\ui\H_HelmetHBK_SA_Olive_headset_ui.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\sa_modularhelmet\data\H_HelmetHBK_SA_Olive.paa"
@@ -295,6 +317,7 @@ class CfgWeapons
 		author="Mascot";
 		scope=2;
 		displayName="SA Modular Chops (Olive)";
+		picture = "\sa_modularhelmet\data\ui\H_HelmetHBK_SA_Olive_headset_ui.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\sa_modularhelmet\data\H_HelmetHBK_SA_Olive.paa"
@@ -305,6 +328,7 @@ class CfgWeapons
 		author="Mascot";
 		scope=2;
 		displayName="SA Modular (Olive)";
+		picture = "\sa_modularhelmet\data\ui\H_HelmetHBK_SA_Olive_headset_ui.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\sa_modularhelmet\data\H_HelmetHBK_SA_Olive.paa"
@@ -315,6 +339,7 @@ class CfgWeapons
 		author="Mascot";
 		scope=2;
 		displayName="SA Modular Headset (SANDF)";
+		picture = "\sa_modularhelmet\data\ui\H_HelmetHBK_SA_SANDF_headset_ui.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\sa_modularhelmet\data\H_HelmetHBK_SA_SANDF.paa"
@@ -325,6 +350,7 @@ class CfgWeapons
 		author="Mascot";
 		scope=2;
 		displayName="SA Modular Ear protection (SANDF)";
+		picture = "\sa_modularhelmet\data\ui\H_HelmetHBK_SA_SANDF_headset_ui.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\sa_modularhelmet\data\H_HelmetHBK_SA_SANDF.paa"
@@ -335,6 +361,7 @@ class CfgWeapons
 		author="Mascot";
 		scope=2;
 		displayName="SA Modular Chops (SANDF)";
+		picture = "\sa_modularhelmet\data\ui\H_HelmetHBK_SA_SANDF_headset_ui.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\sa_modularhelmet\data\H_HelmetHBK_SA_SANDF.paa"
@@ -345,6 +372,7 @@ class CfgWeapons
 		author="Mascot";
 		scope=2;
 		displayName="SA Modular (SANDF)";
+		picture = "\sa_modularhelmet\data\ui\H_HelmetHBK_SA_SANDF_headset_ui.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\sa_modularhelmet\data\H_HelmetHBK_SA_SANDF.paa"
@@ -355,6 +383,7 @@ class CfgWeapons
 		author="Mascot";
 		scope=2;
 		displayName="SA Modular Headset (Snow)";
+		picture = "\sa_modularhelmet\data\ui\H_HelmetHBK_SA_Snow_headset_ui.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\sa_modularhelmet\data\H_HelmetHBK_SA_Snow.paa"
@@ -365,6 +394,7 @@ class CfgWeapons
 		author="Mascot";
 		scope=2;
 		displayName="SA Modular Ear protection (Snow)";
+		picture = "\sa_modularhelmet\data\ui\H_HelmetHBK_SA_Snow_headset_ui.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\sa_modularhelmet\data\H_HelmetHBK_SA_Snow.paa"
@@ -375,6 +405,7 @@ class CfgWeapons
 		author="Mascot";
 		scope=2;
 		displayName="SA Modular Chops (Snow)";
+		picture = "\sa_modularhelmet\data\ui\H_HelmetHBK_SA_Snow_headset_ui.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\sa_modularhelmet\data\H_HelmetHBK_SA_Snow.paa"
@@ -385,6 +416,7 @@ class CfgWeapons
 		author="Mascot";
 		scope=2;
 		displayName="SA Modular (Snow)";
+		picture = "\sa_modularhelmet\data\ui\H_HelmetHBK_SA_Snow_headset_ui.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\sa_modularhelmet\data\H_HelmetHBK_SA_Snow.paa"
@@ -395,6 +427,7 @@ class CfgWeapons
 		author="Mascot";
 		scope=2;
 		displayName="SA Modular Headset (Splinter Flek)";
+		picture = "\sa_modularhelmet\data\ui\H_HelmetHBK_SA_SplinterFleck_headset_ui.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\sa_modularhelmet\data\H_HelmetHBK_SA_SplinterFleck.paa"
@@ -405,6 +438,7 @@ class CfgWeapons
 		author="Mascot";
 		scope=2;
 		displayName="SA Modular Ear protection (Splinter Flek)";
+		picture = "\sa_modularhelmet\data\ui\H_HelmetHBK_SA_SplinterFleck_headset_ui.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\sa_modularhelmet\data\H_HelmetHBK_SA_SplinterFleck.paa"
@@ -415,6 +449,7 @@ class CfgWeapons
 		author="Mascot";
 		scope=2;
 		displayName="SA Modular Chops (Splinter Flek)";
+		picture = "\sa_modularhelmet\data\ui\H_HelmetHBK_SA_SplinterFleck_headset_ui.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\sa_modularhelmet\data\H_HelmetHBK_SA_SplinterFleck.paa"
@@ -425,6 +460,7 @@ class CfgWeapons
 		author="Mascot";
 		scope=2;
 		displayName="SA Modular (Splinter Flek)";
+		picture = "\sa_modularhelmet\data\ui\H_HelmetHBK_SA_SplinterFleck_headset_ui.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\sa_modularhelmet\data\H_HelmetHBK_SA_SplinterFleck.paa"
@@ -435,6 +471,7 @@ class CfgWeapons
 		author="Mascot";
 		scope=2;
 		displayName="SA Modular Headset (Tiger)";
+		picture = "\sa_modularhelmet\data\ui\H_HelmetHBK_SA_Tiger_headset_ui.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\sa_modularhelmet\data\H_HelmetHBK_SA_Tiger.paa"
@@ -445,6 +482,7 @@ class CfgWeapons
 		author="Mascot";
 		scope=2;
 		displayName="SA Modular Ear protection (Tiger)";
+		picture = "\sa_modularhelmet\data\ui\H_HelmetHBK_SA_Tiger_headset_ui.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\sa_modularhelmet\data\H_HelmetHBK_SA_Tiger.paa"
@@ -455,6 +493,7 @@ class CfgWeapons
 		author="Mascot";
 		scope=2;
 		displayName="SA Modular Chops (Tiger)";
+		picture = "\sa_modularhelmet\data\ui\H_HelmetHBK_SA_Tiger_headset_ui.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\sa_modularhelmet\data\H_HelmetHBK_SA_Tiger.paa"
@@ -465,6 +504,7 @@ class CfgWeapons
 		author="Mascot";
 		scope=2;
 		displayName="SA Modular (Tiger)";
+		picture = "\sa_modularhelmet\data\ui\H_HelmetHBK_SA_Tiger_headset_ui.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\sa_modularhelmet\data\H_HelmetHBK_SA_Tiger.paa"
@@ -475,6 +515,7 @@ class CfgWeapons
 		author="Mascot";
 		scope=2;
 		displayName="SA Modular Headset (Unmarked)";
+		picture = "\sa_modularhelmet\data\ui\H_HelmetHBK_SA_Unmarked_headset_ui.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\sa_modularhelmet\data\H_HelmetHBK_SA_Unmarked.paa"
@@ -485,6 +526,7 @@ class CfgWeapons
 		author="Mascot";
 		scope=2;
 		displayName="SA Modular Ear protection (Unmarked)";
+		picture = "\sa_modularhelmet\data\ui\H_HelmetHBK_SA_Unmarked_headset_ui.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\sa_modularhelmet\data\H_HelmetHBK_SA_Unmarked.paa"
@@ -495,6 +537,7 @@ class CfgWeapons
 		author="Mascot";
 		scope=2;
 		displayName="SA Modular Chops (Unmarked)";
+		picture = "\sa_modularhelmet\data\ui\H_HelmetHBK_SA_Unmarked_headset_ui.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\sa_modularhelmet\data\H_HelmetHBK_SA_Unmarked.paa"
@@ -505,6 +548,7 @@ class CfgWeapons
 		author="Mascot";
 		scope=2;
 		displayName="SA Modular (Unmarked)";
+		picture = "\sa_modularhelmet\data\ui\H_HelmetHBK_SA_Unmarked_headset_ui.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\sa_modularhelmet\data\H_HelmetHBK_SA_Unmarked.paa"
@@ -515,6 +559,7 @@ class CfgWeapons
 		author="Mascot";
 		scope=2;
 		displayName="SA Modular Headset (Woodland)";
+		picture = "\sa_modularhelmet\data\ui\H_HelmetHBK_SA_Woodland_headset_ui.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\sa_modularhelmet\data\H_HelmetHBK_SA_Woodland.paa"
@@ -525,6 +570,7 @@ class CfgWeapons
 		author="Mascot";
 		scope=2;
 		displayName="SA Modular Ear protection (Woodland)";
+		picture = "\sa_modularhelmet\data\ui\H_HelmetHBK_SA_Woodland_headset_ui.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\sa_modularhelmet\data\H_HelmetHBK_SA_Woodland.paa"
@@ -535,6 +581,7 @@ class CfgWeapons
 		author="Mascot";
 		scope=2;
 		displayName="SA Modular Chops (Woodland)";
+		picture = "\sa_modularhelmet\data\ui\H_HelmetHBK_SA_Woodland_headset_ui.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\sa_modularhelmet\data\H_HelmetHBK_SA_Woodland.paa"
@@ -545,6 +592,7 @@ class CfgWeapons
 		author="Mascot";
 		scope=2;
 		displayName="SA Modular (Woodland)";
+		picture = "\sa_modularhelmet\data\ui\H_HelmetHBK_SA_Woodland_headset_ui.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\sa_modularhelmet\data\H_HelmetHBK_SA_Woodland.paa"
