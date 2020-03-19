@@ -59,7 +59,7 @@
 		scope=2; \
 		scopeArsenal=2; \
 		displayName=##name##; \
-		picture=##path##\data\ui\saef_uniform_##extension##_ca.paa; \
+		picture=##path##\Uniforms\data\ui\saef_uniform_##extension##_ca.paa; \
 		hiddenSelections[]= \
 		{ \
 			"camo" \
@@ -90,7 +90,7 @@
 		scope=2; \
 		scopeArsenal=2; \
 		displayName=##sName##; \
-		picture=##path##\data\ui\saef_uniform_##extension##_ca.paa; \
+		picture=##path##\Uniforms\data\ui\saef_uniform_##extension##_ca.paa; \
 		hiddenSelections[]= \
 		{ \
 			"camo" \
@@ -123,7 +123,7 @@
 		scope=2; \
 		scopeArsenal=2; \
 		displayName=##name##; \
-		picture=##path##\data\ui\saef_vest_##extension##_ca.paa; \
+		picture=##path##\Vests\data\ui\saef_vest_##extension##_ca.paa; \
 		hiddenSelectionsTextures[]= \
 		{ \
 			##path##\Vests\Data\SAEF_PlateCarrier_##extension##_co.paa \
@@ -136,7 +136,7 @@
 		scope=2; \
 		scopeArsenal=2; \
 		displayName=##sName##; \
-		picture=##path##\data\ui\saef_vest_##extension##_ca.paa; \
+		picture=##path##\Vests\data\ui\saef_vest_##extension##_ca.paa; \
 		hiddenSelectionsTextures[]= \
 		{ \
 			##path##\Vests\Data\SAEF_PlateCarrier_##extension##_co.paa \
@@ -151,7 +151,7 @@
 		scope=2; \
 		scopeArsenal=2; \
 		displayName=##name##; \
-		picture=##path##\data\ui\saef_ech_light_##extension##_ca.paa; \
+		picture=##path##\Helmets\data\ui\saef_ech_light_##extension##_ca.paa; \
 		hiddenSelectionsTextures[]= \
 		{ \
 			##path##\Helmets\Data\SAEF_ECH_##extension##_co.paa \
@@ -164,7 +164,7 @@
 		scope=2; \
 		scopeArsenal=2; \
 		displayName=##sName##; \
-		picture=##path##\data\ui\saef_ech_##extension##_ca.paa; \
+		picture=##path##\Helmets\data\ui\saef_ech_##extension##_ca.paa; \
 		hiddenSelectionsTextures[]= \
 		{ \
 			##path##\Helmets\Data\SAEF_ECH_##extension##_co.paa \
@@ -177,7 +177,7 @@
 		scope=2; \
 		scopeArsenal=2; \
 		displayName=##cName##; \
-		picture=##path##\data\ui\saef_ech_camo_##extension##_ca.paa; \
+		picture=##path##\Helmets\data\ui\saef_ech_camo_##extension##_ca.paa; \
 		hiddenSelectionsTextures[]= \
 		{ \
 			##path##\Helmets\Data\SAEF_ECH_##extension##_co.paa \
@@ -193,7 +193,7 @@
 		scope=2; \
 		scopeArsenal=2; \
 		displayName=##name##; \
-		picture=##path##\data\ui\saef_backpack_##extension##_ca.paa; \
+		picture=##path##\Backpacks\data\ui\saef_backpack_##extension##_ca.paa; \
 		hiddenSelectionsTextures[]= \
 		{ \
 			##path##\Backpacks\Data\SAEF_Backpack_##extension##_co.paa \
@@ -206,7 +206,7 @@
 		scope=2; \
 		scopeArsenal=2; \
 		displayName=##sName##; \
-		picture=##path##\data\ui\saef_kitbag_##extension##_ca.paa; \
+		picture=##path##\Backpacks\data\ui\saef_kitbag_##extension##_ca.paa; \
 		hiddenSelectionsTextures[]= \
 		{ \
 			##path##\Backpacks\Data\SAEF_Kitbag_##extension##_co.paa \
@@ -219,7 +219,7 @@
 		scope=2; \
 		scopeArsenal=2; \
 		displayName=##cName##; \
-		picture=##path##\data\ui\saef_carryall_##extension##_ca.paa; \
+		picture=##path##\Backpacks\data\ui\saef_carryall_##extension##_ca.paa; \
 		hiddenSelectionsTextures[]= \
 		{ \
 			##path##\Backpacks\Data\SAEF_Carryall_##extension##_co.paa \
@@ -232,7 +232,7 @@
 		scope=2; \
 		scopeArsenal=2; \
 		displayName=##bName##; \
-		picture=##path##\data\ui\saef_bergen_##extension##_ca.paa; \
+		picture=##path##\Backpacks\data\ui\saef_bergen_##extension##_ca.paa; \
 		hiddenSelectionsTextures[]= \
 		{ \
 			##path##\Backpacks\Data\SAEF_Bergen_##extension##_co.paa \
