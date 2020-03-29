@@ -57,7 +57,10 @@ class CfgPatches
 			// Helmets - Sand
 			"SAEF_ECH_Light_DST",
 			"SAEF_ECH_DST",
-			"SAEF_ECH_Camo_DST"
+			"SAEF_ECH_Camo_DST",
+			
+			// Backpack - Camo
+			"SAEF_RadioPack_DST"
 		};
 	};
 };
@@ -69,6 +72,8 @@ class CfgVehicles
 	// Delcare Base Classes
 	class SA_Soldier_Base;
 	class SA_Soldier_Base_Jersey;
+	
+	class B_RadioBag_01_base_F;
 	
 	// Macro to run vehicle class creation
 	AddSoldierClass_Macro(sa_desert,SA_Soldier_Base,DST)
@@ -86,6 +91,24 @@ class CfgVehicles
 	// Macro to add our backpack classes
 	AddBackpackClass_Macro(sa_desert,SA_Base_Backpack,SA_Base_Kitbag,SA_Base_Carryall,SA_Base_Bergen,DST,"Assault Pack (RS-Splinter (DST))","Kitbag (RS-Splinter (DST))","Carryall (RS-Splinter (DST))","Bergen (RS-Splinter (DST))")
 	AddBackpackClass_Macro(sa_desert,SA_Base_Backpack,SA_Base_Kitbag,SA_Base_Carryall,SA_Base_Bergen,SND,"Assault Pack (SND)","Kitbag (SND)","Carryall (SND)","Bergen (SND)")
+	
+	class SAEF_RadioPack_DST:B_RadioBag_01_base_F
+	{
+		author="SAEF Dev";
+		scope=2;
+		displayName="SAEF Radio Pack (Desert)";
+		hiddenSelectionsTextures[]=
+		{
+			"\sa_desert\Backpacks\Data\SAEF_RadioBag_DST_co.paa"
+		};
+		picture = "\sa_desert\Backpacks\Data\ui\SAEF_RadioBag_ui_DST_co.paa";
+		tf_dialogUpdate="call TFAR_fnc_updateLRDialogToChannel;";
+		tf_hasLRradio=1;
+		tf_encryptionCode="tf_west_radio_code";
+		tf_dialog="rt1523g_radio_dialog";
+		tf_subtype="digital_lr";
+		tf_range=30000;
+	};
 };
 
 class CfgWeapons
@@ -121,4 +144,49 @@ class CfgWeapons
 	// Macro to run helmet class creation
 	AddHelmetClass_Macro(sa_desert,SA_Base_ECH_Light,SA_Base_ECH_Spec,SA_Base_ECH_Camo,DST,"ECH Light (RS-Splinter (DST))","ECH (RS-Splinter (DST))","ECH-G (RS-Splinter (DST))")
 	AddHelmetClass_Macro(sa_desert,SA_Base_ECH_Light,SA_Base_ECH_Spec,SA_Base_ECH_Camo,SND,"ECH Light (SND)","ECH (SND)","ECH-G (SND)")
+	
+	class SA_MH_headset_DST:H_HelmetHBK_headset_F
+	{
+		author="Mascot";
+		scope=2;
+		displayName="SA MH Headset (DST)";
+		picture = "\sa_desert\Helmets\Data\ui\SAEF_MH_ui_DST.paa";
+		hiddenSelectionsTextures[]=
+		{
+			"\sa_desert\Helmets\Data\SAEF_MH_DST.paa"
+		};
+	};
+	class SA_MH_ear_DST:H_HelmetHBK_ear_F
+	{
+		author="Mascot";
+		scope=2;
+		displayName="SA MH Ear Protection (DST)";
+		picture = "\sa_desert\Helmets\Data\ui\SAEF_MH_ui_DST.paa";
+		hiddenSelectionsTextures[]=
+		{
+			"\sa_desert\Helmets\Data\SAEF_MH_DST.paa"
+		};
+	};
+	class SA_MH_chops_DST:H_HelmetHBK_chops_F
+	{
+		author="Mascot";
+		scope=2;
+		displayName="SA MH Chops (DST)";
+		picture = "\sa_desert\Helmets\Data\ui\SAEF_MH_ui_DST.paa";
+		hiddenSelectionsTextures[]=
+		{
+			"\sa_desert\Helmets\Data\SAEF_MH_DST.paa"
+		};
+	};
+	class SA_MH_DST:H_HelmetHBK_F
+	{
+		author="Mascot";
+		scope=2;
+		displayName="SA MH (DST)";
+		picture = "\sa_desert\Helmets\Data\ui\SAEF_MH_ui_DST.paa";
+		hiddenSelectionsTextures[]=
+		{
+			"\sa_desert\Helmets\Data\SAEF_MH_DST.paa"
+		};
+	};
 };
